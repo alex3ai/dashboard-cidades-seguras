@@ -15,7 +15,7 @@ Dashboard analítico interativo para identificar e ranquear os municípios brasi
 | Nome | GitHub |
 |------|--------|
 | Alex Mendes | [@alex3ai](https://github.com/alex3ai) |
-| Nathalia Lemes das Virgens | — |
+| Nathalia Lemes das Virgens | [@Nathalia1Lemes](https://github.com/Nathalia1Lemes)|
 
 ## 📋 Sobre o Projeto
 
@@ -93,7 +93,3 @@ Os dados utilizados são provenientes do programa **DESSUST – Cidades Intelige
 ## 📄 Licença
 
 Este projeto está disponível para fins educacionais e acadêmicos.
-
----
-
-<p align="center">Feito com ❤️ por <strong>Alex Mendes</strong> e <strong>Nathalia Lemes das Virgens</strong></p>
